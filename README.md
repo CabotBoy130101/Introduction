@@ -63,7 +63,7 @@ I love building complete projects from scratch — from concept to deployment, c
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discordapp.com/users/1025827592068145172])
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1025827592068145172)
 ![EclipseMC](https://img.shields.io/badge/🌑%20EclipseMC-de.freegamehost.xyz:5682-6C3AEF?style=for-the-badge)
 
 </div>
